@@ -10,6 +10,9 @@ Hi there👋  I'm a software engineering student at Cruzeiro do Sul University, 
 - API
 - ASP.NET
 
+- AGILE Methodology
+- GIT / GIT Flow
+
 ## Projects
 
 Here are a few projects I've worked on:
