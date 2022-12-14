@@ -2,6 +2,8 @@
 
 Hi there👋  I'm a software engineering student at Cruzeiro do Sul University, passionate about creating efficient, scalable solutions to complex problems, and I am always looking to learn more and improve my skills.
 
+Also I have a strong foundation in electronic engineering principles. I've worked as an electronic technician, developing electronic circuit boards for GNSS receivers. 
+
 ## Skills
 
 - C#
