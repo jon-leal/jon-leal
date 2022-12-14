@@ -1,8 +1,6 @@
 # Jonatas Leal
 
-Hi there👋  I'm a software engineering student at Cruzeiro do Sul University with a passion for building high-quality, scalable, and maintainable applications. 
-
-I have experience working with C#, .NET framework, and SQL, and I am always looking to learn new technologies and improve my skills.
+Hi there👋  I'm a software engineering student at Cruzeiro do Sul University, passionate about creating efficient, scalable solutions to complex problems, and I am always looking to learn more and improve my skills.
 
 ## Skills
 
