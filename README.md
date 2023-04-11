@@ -17,10 +17,13 @@ Also, I have a strong foundation in electronics engineering. I've worked as an e
 
 - C#
 - JAVA
-- NET Framework
-- SQL Server
-- API
+- Javascript
+- NET Framework / .Net Core
+- MySQL / SQL Server / PostgreSQL
+- API Restful
 - ASP.NET
+- Bootstrap
+- HTML5 / CSS3
 
 - AGILE Methodology
 - GIT / GIT Flow
