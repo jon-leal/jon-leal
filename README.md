@@ -1,6 +1,6 @@
 # Jonatas Leal
 
-Hi there👋  I'm a software engineering student at Cruzeiro do Sul University, I had the opportunity to work for the biggest company in the Oil & Gas industry, where I developed a strong ability to create solutions to complex problems. I am always looking to learn more and improve my skills.
+Hi there👋  I am a technology enthusiast software engineer, always seeking to develop efficient and effective solutions that bring value to the business. 
 
 Also, I have a strong foundation in electronics engineering. I've worked as an electronic technician, developing electronic circuit boards of GNSS receivers for Brazilian Army Forces and civil end users. 
 
@@ -19,9 +19,10 @@ Also, I have a strong foundation in electronics engineering. I've worked as an e
 - JAVA
 - Javascript
 - NET Framework / .Net Core
+- Entity Framework Core
 - MySQL / SQL Server / PostgreSQL
 - API Restful
-- ASP.NET
+- ASP.NET (Core)
 - Bootstrap
 - HTML5 / CSS3
 
