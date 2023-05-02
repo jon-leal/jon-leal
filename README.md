@@ -1,8 +1,12 @@
 # Jonatas Leal
 
-Hi there👋  I am a technology enthusiast software engineer, always seeking to develop efficient and effective solutions that bring value to the business. 
+Hello👋 I'm a software engineer with a passion for technology.
 
-Also, I have a strong foundation in electronics engineering. I've worked as an electronic technician, developing electronic circuit boards of GNSS receivers for Brazilian Army Forces and civil end users. 
+Constantly striving to craft solutions through the power of code and bits 😃
+
+Also, I have an experience developing electronic circuit boards of GNSS receivers for Brazilian Army Forces and civil end users.
+
+So I like to develop some stuffs using raspberry PI and microcontrollers as well.
 
 ## Skills
 
@@ -15,26 +19,56 @@ Also, I have a strong foundation in electronics engineering. I've worked as an e
 <!-- ./STATS  -->
 <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=jon-leal&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Jonatas Leal" /></div>
 
-- C#
-- JAVA
-- Javascript
-- NET Framework / .Net Core
-- Entity Framework Core
-- MySQL / SQL Server / PostgreSQL
-- API Restful
-- ASP.NET (Core)
-- Bootstrap
-- HTML5 / CSS3
+Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
-- AGILE Methodology
-- GIT / GIT Flow
+Frameworks and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework Core" />
+  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
-## Projects
+Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
-Here are a few projects I've worked on:
+Other Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/API%20Restful-FF5733?style=for-the-badge&logo=api&logoColor=white" alt="API Restful" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-- **Project 1**: A C# application that runs on the desktop. It was designed to read in serial data in ASCII format from a device, and then generate a graph of the data in real-time. The user can customize the appearance of the graph, including the X and Y axes, gridlines, and data series. The generated graph can be saved to an image file for later reference or analysis.
-The project was implemented using the C# language and the Windows Forms library for the user interface. It also uses a third-party library for generating the graph.  To use the project, the user will need to have a device that outputs serial data in ASCII format and a computer with the .NET framework installed. The project      provides detailed instructions for setting up and using the application.
+Project management
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Git%20Flow-181717?style=for-the-badge&logo=git&logoColor=white" alt="Git Flow" />
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+</p>
+
+DevOps and Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+</p>
+
+## Currently learning
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+
+
+
 
 ## Contact
 
