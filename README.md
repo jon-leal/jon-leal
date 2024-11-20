@@ -1,21 +1,15 @@
 # Jonatas Leal
 
-Hello👋 I'm a software engineer with a passion for technology.
+Hey there! 👋 
 
-Constantly striving to craft solutions through the power of code and bits 😃
+I'm a software engineer, tech enthusiast, and lifelong learner.
+Specialized in compliance systems and backend development, with expertise in C# and Blazor.
+Though my heart lies in backend architecture, I enjoy venturing into frontend to create meaningful end-to-end experiences.
 
-Also, I have an experience developing electronic circuit boards of GNSS receivers for Brazilian Army Forces and civil end users.
-
-So I like to develop some stuffs using raspberry PI and microcontrollers as well.
+🚀 Let's build something amazing together!
+💡 Always learning & sharing knowledge!
 
 ## Skills
-
-<!-- ./STATS  -->
-<div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats-henna-alpha.vercel.app/api?username=jon-leal&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jonatas Leal github stats" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats-henna-alpha.vercel.app/api/top-langs/?username=jon-leal&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
 <!-- ./STATS  -->
 <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=jon-leal&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Jonatas Leal" /></div>
 
